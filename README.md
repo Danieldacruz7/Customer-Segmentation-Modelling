@@ -11,7 +11,10 @@ Project for customer identification, and purchase prediction modelling using Pri
 5. Licensing, Authors, Acknowledgements
 
 ## Project Motivation
-Arvato, a financial services company in Germany, is hoping to expand its consumer base. However, they need insight into which consumers they could target.
+Arvato, a financial services company in Germany, is hoping to expand its consumer base. However, they need insight into which consumers they could target. They have provided demographic information about their customers, and would like someone to figure out the characteristics of their customers.
+
+In order to expand their consumer base, they would like to know which individuals are most likely to buy their product from the general population. They hope someone is able to build a model to identify these customers. There is a lot of data to deal with, and their hope is that someone can simplify the process and extract as much value from the data as possible.
+
 ## Installations
 Below are a list of libraries that were used in this project:
 - Numpy
@@ -22,10 +25,15 @@ Below are a list of libraries that were used in this project:
 - Matplotlib
 - Statistics
 - Yellowbrick
+
 If you would like to clone the project, make sure to use pip install to download the libraries.  
 
 ## File Descriptions
+The main file, Arvato Project Workbook, contains the code and analysis of the project. Open the file to view the entire analysis of the Arvato financial services data.
+
+The two main data files are the CUSTOMERS and AZDIAS files. These are not included as the datasets are too large to upload to Github. However, the Udacity_MAILOUT_052018_TEST and Udacity_MAILOUT_052018_TRAIN files, will be used to build a model for customer identification as these are subsets of the CUSTOMERS file.
 
 ## How To Interact With the Project
+The project layout is relatively simple. Click on the Arvato Project Workbook.ipynb file to view the entire project. You can also view the project summary in an up-coming blog post on Medium. 
 
 ## Licensing, Authors, Acknowledgements
