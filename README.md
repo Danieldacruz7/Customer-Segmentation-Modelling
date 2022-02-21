@@ -1,8 +1,6 @@
 # Customer-Segmentation-Modelling
 Project for customer identification, and purchase prediction modelling using Principal Component Analysis, K-means clustering, Random Forrest Classifiers and Support Vector Machines.
 
-(IN PROGRESS...)
-
 ## Table of Contents
 1. Project Motivation
 2. Installations
@@ -34,6 +32,7 @@ The main file, Arvato Project Workbook, contains the code and analysis of the pr
 The two main data files are the CUSTOMERS and AZDIAS files. These are not included as the datasets are too large to upload to Github. However, the Udacity_MAILOUT_052018_TEST and Udacity_MAILOUT_052018_TRAIN files, will be used to build a model for customer identification as these are subsets of the CUSTOMERS file.
 
 ## How To Interact With the Project
-The project layout is relatively simple. Click on the Arvato Project Workbook.ipynb file to view the entire project. You can also view the project summary in an up-coming blog post on Medium. 
+The project layout is relatively simple. Click on the Arvato Project Workbook.ipynb file to view the entire project. You can also view the project summary in an up-coming blog post on Medium.
 
 ## Licensing, Authors, Acknowledgements
+I would like to thank Arvato financial services for providing the private datasets. These included the customer, population and training and test datasets.  
