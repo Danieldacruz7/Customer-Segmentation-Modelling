@@ -34,7 +34,7 @@ The two main data files are the CUSTOMERS and AZDIAS files. These are not includ
 ## How To Interact With the Project
 The project layout is relatively simple. Click on the Arvato Project Workbook.ipynb file to view the entire project. You can also view the project summary in an up-coming blog post on Medium.
 
-The blog post can be viewed at https://bit.ly/35816oG. The blog post is a more concise, and covers the most important aspects of the project.
+The blog post can be viewed at https://bit.ly/35816oG. The blog post is more concise, and covers the most important aspects of the project.
 
 ## Licensing, Authors, Acknowledgements
 I would like to thank Arvato financial services for providing the private datasets. These included the customer, population and training and test datasets.  
