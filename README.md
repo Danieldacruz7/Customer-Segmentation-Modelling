@@ -34,5 +34,7 @@ The two main data files are the CUSTOMERS and AZDIAS files. These are not includ
 ## How To Interact With the Project
 The project layout is relatively simple. Click on the Arvato Project Workbook.ipynb file to view the entire project. The blog post can be viewed at https://bit.ly/35816oG. The blog post is more concise, and covers the most important aspects of the project.
 
+If, however, you have any issues viewing the notebook, it may be due to the notebook not being able to render on GitHub. Alternatively, you can view the project at https://github.com/Danieldacruz7/Customer-Segmentation-Modelling/blob/main/Arvato%20Project%20Workbook.ipynb.
+
 ## Licensing, Authors, Acknowledgements
 I would like to thank Arvato financial services for providing the private datasets, as well as the idea for the project. These included the customer, population and training and test datasets. I would also like to thank Udacity for all the lessons that were taught, and for the highly engaging content.
