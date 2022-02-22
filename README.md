@@ -1,12 +1,12 @@
 # Customer-Segmentation-Modelling
-Project for customer identification, and purchase prediction modelling using Principal Component Analysis, K-means clustering, Random Forest Classifiers and XGBoost.
+Project for customer identification, and purchase prediction modelling using Principal Component Analysis, K-means clustering, Random Forrest Classifiers and Support Vector Machines.
 
 ## Table of Contents
-1. [Project Motivation](https://github.com/Danieldacruz7/Customer-Segmentation-Modelling#project-motivation)
-2. [Installations](https://github.com/Danieldacruz7/Customer-Segmentation-Modelling#installations)
-3. [File Descriptions](https://github.com/Danieldacruz7/Customer-Segmentation-Modelling#file-descriptions)
-4. [How To Interact With the Project](https://github.com/Danieldacruz7/Customer-Segmentation-Modelling#how-to-interact-with-the-project)
-5. [Licensing, Authors, Acknowledgements](https://github.com/Danieldacruz7/Customer-Segmentation-Modelling#licensing-authors-acknowledgements)
+1. Project Motivation
+2. Installations
+3. File Descriptions
+4. How To Interact With the Project
+5. Licensing, Authors, Acknowledgements
 
 ## Project Motivation
 Arvato, a financial services company in Germany, is hoping to expand its consumer base. However, they need insight into which consumers they could target. They have provided demographic information about their customers, and would like someone to figure out the characteristics of their customers.
