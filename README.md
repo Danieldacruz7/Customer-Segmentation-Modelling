@@ -1,5 +1,5 @@
 # Customer-Segmentation-Modelling
-Project for customer identification, and purchase prediction modelling using Principal Component Analysis, K-means clustering, Random Forrest Classifiers and Support Vector Machines.
+Project for customer identification, and purchase prediction modelling using Principal Component Analysis, K-means clustering, Random Forest Classifiers and XGBoost.
 
 ## Table of Contents
 1. [Project Motivation](https://github.com/Danieldacruz7/Customer-Segmentation-Modelling#project-motivation)
